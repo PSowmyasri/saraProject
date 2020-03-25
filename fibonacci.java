@@ -39,6 +39,5 @@ public class fibonacci{
 			fibonacciGenerator(n);
 		else
 			System.out.println("Why did u give wrong Number");
-
 	}
 }
